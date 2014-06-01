@@ -42,6 +42,6 @@ I had at a given time collected many of the resources I had found in the past, t
 
 This typeface is considered copyright of "Designers Republic(TM)".
 
-Some addition of design has been implemented on the prior-art in attempt to re-create the visual experience provided by the original work, which we may only assume was originally a bitmap-font usually put to use on something along the terms of 300 to 600dpi resolution on compact-disk, cassette and vinyl sleeves.
+Some addition of design has been implemented on the prior-art in attempt to re-create the visual experience provided by the original work, which we may only assume was originally a bitmap-font usually put to use on something along the terms of 300 to 600dpi resolution on compact-disk, cassette and vinyl sleeves including perhaps other promotional mediums.
 
 Downloading this font limits you to private use.  We do not recommend incorporating this font for commercial or corporate usage, as it has been used in PWEI products and within the game series, WipeOUT from SCE (Sony Computer Entertainment).
