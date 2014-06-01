@@ -24,8 +24,8 @@ Copyright: The Designers Republic AKA: "DR"
 
 Fan Creation by:
 
-* tfw — developer/designer: initial release, typography/metrics, design
-* cam-ron — designer: glyph-set re-design
+* CDC — designer: glyph-set re-design
+* TFW — developer/designer: initial release, typography/metrics, design
 
 ## HISTORICAL
 
