@@ -1,8 +1,8 @@
-title: AmalgamUS Font Index
+20140530 0733 CST
 
 This is a general release of FontForge sfd files that can be used to generate the Amalgam-xx font-family.
 
-When time for review is available, we'll provide TTF/OTF versions over on the old DeviantArt page that the font was originally released on.
+When time for review is available, we'll provide TTF/OTF versions over on the old DeviantArt page that the font was originally released on, or elsewhere (time will tell).
 
 ## FILE-VERSIONS
 
