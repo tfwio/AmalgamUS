@@ -34,7 +34,7 @@ In attempt to produce an honorable 'emulation' of a existing product, we are int
 
 Historically, there used to be countless resources on line to use as references up until around 2010, at which time most of such resources disappeared from the www, including full-spirited PWEI-NATION, PWSI (Pop Will Sample Itself) and PWEI-product presence.
 
-Once upon a time, PWEI-NATION actually contained the most accurate form of this font as seen publicly in the form of a bitmap image (or some digital/pixel format).  For reasons unknown to me, the font disappeared from the public domain shortly thereafter.  (wishing I had that bitmap)
+Once upon a time, PWEI-NATION (or similarly named fan page) actually contained the most accurate form of this font as seen publicly in the form of a bitmap image (or some digital/pixel format).  For reasons unknown to me, the font disappeared from the public domain shortly thereafter.  (wishing I had that bitmap)
 
 I had at a given time collected many of the resources I had found in the past, to lose them in several hard-disk crashes ;(
 
