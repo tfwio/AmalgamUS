@@ -32,7 +32,7 @@ Fan Creation by:
 This font was designed by and for PWEI fans as well as fans of Wip3OUT products.
 In attempt to produce an honorable 'emulation' of a existing product, we are introduced with a question of how to balance respect/honor between fans and the original artist.  It is this reason that many entities (such as myself) have either remained anonymous, or allowed a 'tainted' emulation of such products to remain in the public domain.
 
-Historically, there used to be countless resources on line to use as references up until around 2010, at which time most of such resources disappeared from the www, including full-spirited PWEI-NATION, PWSI (Pop Will Sample Itself) and PWEI-product presence.
+There used to be countless resources on line to use as references up until around 2010, at which time most of such resources disappeared from the www, including full-spirited PWEI-NATION, PWSI (Pop Will Sample Itself) and PWEI-product presence.
 
 Once upon a time, PWEI-NATION (or similarly named fan page) actually contained the most accurate form of this font as seen publicly in the form of a bitmap image (or some digital/pixel format).  For reasons unknown to me, the font disappeared from the public domain shortly thereafter.  (wishing I had that bitmap)
 
