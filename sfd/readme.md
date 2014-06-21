@@ -25,7 +25,7 @@ Copyright: The Designers Republic AKA: "DR"
 Fan Creation by:
 
 * CDC — designer: glyph-set re-design
-* TFW — developer/designer: initial release, typography/metrics, design
+* TFW — developer/designer: initial release, typography/metrics, design (fallback glyphs, tweaking, ...)
 
 ## HISTORICAL
 
