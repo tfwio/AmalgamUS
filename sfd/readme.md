@@ -12,7 +12,7 @@ The glyph-sets vary for some of these versions.
 
 `AmalgamR_ex.sfd` --- As close to the original typeface as possible.
 
-`AmalgamWFX.sfd` --- (possibly) camron's Initial glyph-set revision, including thw WipeOUT inspired star replacing the `R` (registered trademark) symbol.  This set contains some lower-case characters, and several other glyphs such as the new `&` symbol.
+`AmalgamWFX.sfd` --- (possibly) CDC's Initial glyph-set revision, including thw WipeOUT inspired star replacing the `R` (registered trademark) symbol.  This set contains some lower-case characters, and several other glyphs such as the new `&` symbol.
 
 `AmalgamWOX.sfd` --- A WipeOUT inspired rendition of the typeface including a complete lower-case character-set for the lower case mapping.
 
