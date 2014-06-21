@@ -36,7 +36,7 @@ There used to be countless resources on line to use as references up until aroun
 
 Once upon a time, PWEI-NATION (or similarly named fan page) actually contained the most accurate form of this font as seen publicly in the form of a bitmap image (or some digital/pixel format).  For reasons unknown to me, the font disappeared from the public domain shortly thereafter.  (wishing I had that bitmap)
 
-I had at a given time collected many of the resources I had found in the past, to lose them in several hard-disk crashes ;(
+I had at a given time collected many of the resources I had found in the past, to lose them in several hard-disk crashes ;(  Incidentally, I had lost the original glyph-set and got stuck with a version that was 'recalculated' (resulting from playing with font-forge metrics on an initial version) which pretty much made the base glyph-set crap.  Interestingly, there was a particular week the font re-entered my mind.  A few days later, after re-realizing how crappy my release was on D. A. I started working on glyphs for the redesign — and that very same day recieved a new glyph-set by email.
 
 ## INTELLECTUAL PROPERTY NOTE
 
