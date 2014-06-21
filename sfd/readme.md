@@ -6,7 +6,7 @@ When time for review is available, we'll provide TTF/OTF versions over on the ol
 
 ## FILE-VERSIONS
 
-This is an initial pre-lease.
+This is an initial pre-lease — file names are expected to change to `amalgam-[unique].[ext]`
 
 The glyph-sets vary for some of these versions.
 
